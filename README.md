@@ -1,6 +1,6 @@
 ## Oi, sou Hércules Carlos
 
-* 🔭 Faço pesquisa aplicando inteligência Artificial a imagens obtidas por drone
+* 🔭 Trabalho o desenvolvendo de aplicações de técnicas de inteligência Artificial para resolução de problemas
 * 🌱 Estudo Inteligência Artificial
 
 <div>
