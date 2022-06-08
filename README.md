@@ -12,7 +12,7 @@
 ##
 
   
-<div align="left" margin-top:80px;>
+<div style="display: inline_block">
   
   <img border="red" align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
