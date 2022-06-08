@@ -9,7 +9,13 @@
 * 🔭 Desenvolvendo aplicações utilizando técnicas de inteligência Artificial para resolução diferentes problemas.
 * 🌱 Estudo Inteligência Artificial
 
-<div style="display: inline_block">
+<style>
+  .github_status, stacks{
+  color:red;
+  }
+</style>
+
+<div class="github_status"style="display: inline_block">
   <a href="https://github.com/herculesc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herculesc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculesc&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -18,7 +24,7 @@
 ##
 
 ## Tecnologias que eu uso
-<div style="display: inline_block"><br>         
+<div class="stacks" style="display: inline_block"><br>         
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
