@@ -8,8 +8,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herculesc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculesc&layout=compact&langs_count=7&theme=tokyonight"/>
  </div>
+  
+##
 
-<div align="center" margin-top:80px;>
+  
+<div align="left" margin-top:80px;>
   
   <img border="red" align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
@@ -20,3 +23,11 @@
 </div>
   
 ##
+<div class="contato">
+  <a href="www.linkedin.com/in/hércules-carlos-4130a295" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.facebook.com/hercules.carlosdossantospereira/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+
+  <a href="https://www.youtube.com/channel/UC4tIsxKU9CCiL41ZFPgwuhg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  
+  
+ </div>
