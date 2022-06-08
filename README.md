@@ -12,9 +12,8 @@
 ##
 
   
-<div style="display: inline_block">
-  
-  <img border="red" align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
+<div style="display: inline_block">         
+  <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />     
