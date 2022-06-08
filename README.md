@@ -1,6 +1,6 @@
 ## Oi, sou Hércules Carlos
 
-* 🔭 Trabalho o desenvolvendo de aplicações de técnicas de inteligência Artificial para resolução de problemas
+* 🔭 Desenvolvendo aplicações usando técnicas de inteligência Artificial para resolução diferente problemas.
 * 🌱 Estudo Inteligência Artificial
 <div align="center">
   <a href="https://github.com/herculesc">
