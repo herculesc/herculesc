@@ -7,7 +7,7 @@
  </div><br>
 
 * 🔭 Desenvolvendo aplicações utilizando técnicas de inteligência Artificial para resolução diferentes problemas.
-* 🌱 Estudo Inteligência Artificial
+* 🌱 Estudo Machine Learning
 
 <div class="github_status"style="display: inline_block">
   <a href="https://github.com/herculesc">
