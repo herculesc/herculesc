@@ -6,8 +6,8 @@
   <a href="https://www.youtube.com/channel/UC4tIsxKU9CCiL41ZFPgwuhg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
  </div><br>
 
-* 🔭 Desenvolvendo aplicações utilizando técnicas de inteligência Artificial para resolução diferentes problemas.
-* 🌱 Estudo Machine Learning
+* 🔭 Desenvolvedor de aplicações utilizando técnicas de inteligência Artificial para resolução de diferentes problemas.
+* 🌱 Machine Learning <> Deep Learning
 
 <div class="github_status"style="display: inline_block">
   <a href="https://github.com/herculesc">
