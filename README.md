@@ -1,19 +1,43 @@
-## Hey, I'm Hércules Carlos
+# Hércules Carlos — Machine Learning Engineer
 
-<div class="contact">
-  <a href="https://www.linkedin.com/in/hércules-carlos-4130a295"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div><br>
+Machine Learning Engineer focused on building end-to-end AI systems, combining classical machine learning, deep learning, and computer vision to solve real-world problems, from model development and evaluation to integration into usable applications.
 
-* 🔭 Developer of applications using Artificial Intelligence techniques to solve different problems.
-* 🤖 Machine Learning
-* 🤖 Deep Learning
+---
 
-##
+## 🚀 What I Do
 
-## Technologies I use
-<div class="stacks" style="display: inline_block"><br>         
-  <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-</div>
+✔ Machine Learning (classification, regression, clustering)
+✔ Deep Learning (CNNs and custom models)
+✔ Computer Vision (YOLO, U-Net, OpenCV pipelines)
+✔ Classical ML models (SVM, Random Forest, AdaBoost, Logistic Regression)
+✔ Model evaluation, comparison and improvement
+✔ End-to-end AI systems (training → evaluation → deployment)
+✔ AI APIs and tools using FastAPI and Streamlit
+
+---
+
+## 🧠 Highlight Projects
+
+🛰️ AI Research & Model Benchmarking (Drone Imagery)
+Explored and compared classical machine learning and deep learning approaches for UAV image classification, evaluating feature extraction strategies and classifier performance across multiple models.
+
+🔥 **Object Detection System**
+Real-time detection pipeline using YOLO integrated with FastAPI backend and Streamlit interface.
+
+🧠 **Custom ML & CNN Projects**
+Training and evaluation of machine learning models including CNNs and classical approaches for classification tasks.
+
+🛰️ **Remote Sensing & Image Analysis Systems**
+Computer vision pipelines applied to image segmentation and change detection problems.
+
+---
+
+## 🧰 Core Stack
+
+Python • PyTorch • TensorFlow • Scikit-learn • OpenCV • FastAPI • Streamlit • Linux
+
+---
+
+## 📈 Focus
+
+Building practical AI systems that bridge experimentation, model evaluation, and real-world application development.
