@@ -18,16 +18,16 @@ Machine Learning Engineer focused on building end-to-end AI systems, combining c
 
 ## 🧠 Highlight Projects
 
-🛰️ AI Research & Model Benchmarking (Drone Imagery)
+• AI Research & Model Benchmarking (Drone Imagery)
 Explored and compared classical machine learning and deep learning approaches for UAV image classification, evaluating feature extraction strategies and classifier performance across multiple models.
 
-**Object Detection System**
+• **Object Detection System**
 Real-time detection pipeline using YOLO integrated with FastAPI backend and Streamlit interface.
 
-**Custom ML & CNN Projects**
+• **Custom ML & CNN Projects**
 Training and evaluation of machine learning models including CNNs and classical approaches for classification tasks.
 
-**Remote Sensing & Image Analysis Systems**
+• **Remote Sensing & Image Analysis Systems**
 Computer vision pipelines applied to image segmentation and change detection problems.
 
 ---
