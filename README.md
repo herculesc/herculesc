@@ -2,7 +2,9 @@
 
 > Artificial Intelligence Specialist | Data Scientist | AI Engineer | Computer Vision
 
-Machine Learning Engineer focused on building end-to-end AI systems, combining classical machine learning, deep learning, and computer vision to solve real-world problems, from model development and evaluation to integration into usable applications.
+Data Scientist & Machine Learning Engineer especializado em IA aplicada, Visão Computacional e Deep Learning. 
+Experiência no desenvolvimento, treinamento e deploy de modelos utilizando Python, PyTorch, TensorFlow e OpenCV. 
+Criação de APIs e soluções escaláveis com FastAPI, integrando modelos de IA a aplicações reais e ambientes de produção.
 
 ---
 
