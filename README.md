@@ -6,7 +6,7 @@ Machine Learning Engineer focused on building end-to-end AI systems, combining c
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 - Machine Learning (classification, regression, clustering)
 - Deep Learning (CNNs and custom models)
@@ -18,7 +18,7 @@ Machine Learning Engineer focused on building end-to-end AI systems, combining c
 
 ---
 
-## 🧠 Highlight Projects
+## Highlight Projects
 
 • AI Research & Model Benchmarking (Drone Imagery)
 Explored and compared classical machine learning and deep learning approaches for UAV image classification, evaluating feature extraction strategies and classifier performance across multiple models.
@@ -34,12 +34,12 @@ Computer vision pipelines applied to image segmentation and change detection pro
 
 ---
 
-## 🧰 Core Stack
+## Core Stack
 
 Python • PyTorch • TensorFlow • Scikit-learn • OpenCV • FastAPI • Streamlit • Linux
 
 ---
 
-## 📈 Focus
+## Focus
 
 Building practical AI systems that bridge experimentation, model evaluation, and real-world application development.
