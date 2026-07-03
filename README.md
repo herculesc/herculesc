@@ -1,4 +1,6 @@
-# Hércules Carlos — Machine Learning Engineer
+# Hércules Carlos
+
+> Artificial Intelligence Specialist | Data Scientist | AI Engineer | Computer Vision
 
 Machine Learning Engineer focused on building end-to-end AI systems, combining classical machine learning, deep learning, and computer vision to solve real-world problems, from model development and evaluation to integration into usable applications.
 
@@ -6,13 +8,13 @@ Machine Learning Engineer focused on building end-to-end AI systems, combining c
 
 ## 🚀 What I Do
 
-✔ Machine Learning (classification, regression, clustering)
-✔ Deep Learning (CNNs and custom models)
-✔ Computer Vision (YOLO, U-Net, OpenCV pipelines)
-✔ Classical ML models (SVM, Random Forest, AdaBoost, Logistic Regression)
-✔ Model evaluation, comparison and improvement
-✔ End-to-end AI systems (training → evaluation → deployment)
-✔ AI APIs and tools using FastAPI and Streamlit
+- Machine Learning (classification, regression, clustering)
+- Deep Learning (CNNs and custom models)
+- Computer Vision (YOLO, U-Net, OpenCV pipelines)
+- Classical ML models (SVM, Random Forest, AdaBoost, Logistic Regression)
+- Model evaluation, comparison and improvement
+- End-to-end AI systems (training → evaluation → deployment)
+- AI APIs and tools using FastAPI and Streamlit
 
 ---
 
